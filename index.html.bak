@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>HTML Love Sheet</title>
+
+	</head>
+	<body>
+			<!-- Headinds -->
+			<h1><strong><i>Mahesh Mahee</i></strong></h1>
+			<h2>Heading two</h2>
+			<h3>Heading three</h3>
+			<h4>Heading four</h4>
+			<h5>Heading five</h5>
+			<h6>Heading six</h6>
+
+			<!-- Paragraph -->
+			<p>
+				Hai,
+					My name is <strong><strong><em>Mahesh</em></strong></strong>
+					<p>
+
+				Experience in writing application by
+				<strong>using Build tools </strong>such as Maven, Ant,
+				Gradle and deploying them on servers
+				and Jenkins for <em>continuous integration development.</em>
+			</p>
+			<p>
+				Experience in writing <strong><em> application by using Build tools </em></strong> such as Maven, Ant, <a href="http://www.google.com" target="_blank">Gradle and deploying</a> them on servers and Jenkins for continuous integration development.
+			</p>
+			<p>
+				<strong><strong><em>"I Love My life"</em></strong></strong>
+			</P>
+
+			<!-- List -->
+			<ul>
+
+				<li> Mahesh Mahee</li>
+				<li> Ramesh Rams</li>
+				<li> Deepthi Deepu</li>
+				<li> Renuka Renu</li>
+
+			</ul>
+
+			<ol>
+				
+				<li> Mahesh Mahee</li>
+				<li> Ramesh Rams</li>
+				<li> Deepthi Deepu</li>
+				<li> Renuka Renu</li>
+
+			</ol>
+
+			<!-- Tables -->
+			<table>
+				<thead>
+					<tr>
+						<th>Name</th>
+						<th>Email</th>
+						<th>Age</th>
+					</tr>
+
+				</thead>
+				<tbody>
+					<tr>
+						<td> Mahesh Yadav</td>
+						<td>mahee.mahee8699@gmail.com</td>
+						<td>28</td>
+
+					</tr>
+					<tr>
+						<td> Ramesh Rams</td>
+						<td>gramesh123@gmail.com</td>
+						<td>26</td>
+					</tr>
+						<tr>
+						<td> Deepthi Deepu</td>
+						<td>deepthi.deepu114@gmail.com</td>
+						<td>24</td>
+					</tr>
+				</tbody>
+				</table>
+			
+
+			 <br>
+
+			   <!--Forms-->
+			   	<table>
+				<form action="mahee.php" method="POST">
+				<div style="margin-top:500px">
+					<label>First Name</label>
+					<input type="text" name="firstName">
+				</div>
+				
+				</form>
+			</table>
+	</body>
+</html>

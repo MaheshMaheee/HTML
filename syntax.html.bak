@@ -1,0 +1,45 @@
+<!DocTYPE html>
+<html>
+	<head> <title> </title>	</head>
+
+	<body>
+		<h1>
+		   <strong><em>MAhesh MAhee</em></strong>
+		</h1>
+		<p>
+		   
+		    <!-- FORM -->
+			<form action="process.php" method="post">
+				<div>
+				<label>First name</label>
+				<input type="text"name="firstName">
+				</div>
+				<br>
+				<label>Last name</label>
+				<input type="text"name="lastName">
+				<div>
+				<br>
+				<label>em@il</label>
+				<input type="email"name="email">
+				</div>
+				<br>
+				<div>
+				<label>Message</label>
+				<textarea name="message"></textarea>
+				</div>
+				<br>
+				<div>
+				<label>Gender</label>
+				<select name="gender">
+				<option value="Male">male</option>
+				<option value="Female">Female</option>
+				<option value="Other">Female</option>
+				</select>
+
+				</div>
+
+			</form>
+		
+		</p>
+	</body>
+</html>
